@@ -8,6 +8,8 @@ npm run start
 
 -Bu komutlardan sonra projemiz local host'ta çalışıyor olacak.
 
+Netlify: https://647e0476bdc3552138c178c3--dynamic-piroshki-ce2e6d.netlify.app/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
