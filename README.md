@@ -29,7 +29,7 @@ npm run start
 
 ## Netlify: https://647e0476bdc3552138c178c3--dynamic-piroshki-ce2e6d.netlify.app/ 
 
-### İstenen tüm özellikler gerçekleştirildi. Ekstra olarak istenilenler de yapılmıştır. Projem localhost'ta hatasız şekilde çalışmaktadır. Ancak netlify linkinde api kısmında sorun yaşadığım için filmler listelenmiyor. Bunun dışında istenen her şey fazlasıyla gerçekleştirilmiştir.
+### İstenen tüm özellikler gerçekleştirildi. Ekstra olarak istenilenler de yapılmıştır. Projem localhost'ta hatasız şekilde çalışmaktadır. Ancak netlify linkinde bir sorun yaşadığım için filmler listelenmiyor. Bunun dışında istenen her şey fazlasıyla gerçekleştirilmiştir.
 ![Screenshot_1](https://github.com/selinsahinn/MovieApp/assets/93709277/8adc8a45-4f66-4f42-8839-c7331f73afec)
 
 ![Screenshot_2](https://github.com/selinsahinn/MovieApp/assets/93709277/ac2276ce-644d-4c58-83a0-33057c739908)
