@@ -7,6 +7,7 @@ npm i
 npm run start
 
 -Bu komutlardan sonra projemiz local host'ta çalışıyor olacak.
+
 Netlify: https://647e01bc537e2924f8f9bff3--gentle-pie-3420a5.netlify.app/
 
 # Getting Started with Create React App
