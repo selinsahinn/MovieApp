@@ -8,7 +8,30 @@ npm run start
 
 -Bu komutlardan sonra projemiz local host'ta çalışıyor olacak.
 
-Netlify: https://647e0476bdc3552138c178c3--dynamic-piroshki-ce2e6d.netlify.app/
+#Proje İçeriği:
+
+-OMDb API'den kendi aldığım key ile çekilen filmler istenen özellikler sunularak listelendi.
+
+-Filmler ve favori filmler kısmında film arama işlemi gerçekleştirildi.
+
+-Filmdeki butona tıklandığında o film ile ilgili API'de bulunan bazı bilgilerin gösterildiği ayrıntılı bir yapı tasarlandı.
+
+Ekstra Özellikler:
+-Responsive tasarıma uygun yapıldı.
+
+-Sayfadaki film sayısı sınırlandı ve sayfalandırma işlemi gerçekleştirildi.
+
+-Filmler favorilendi ve ayrı bir favori filmler yerinde listelendi. Favoriden silme işlemi de gerçekleştirildi.
+
+-Listelenen tüm filmler için yıllara göre artan ve azalan sırada düzenleme gerçekleştirildi.
+
+-Uygulama Netlify'da hizmete girdi. 
+
+#Netlify: https://647e0476bdc3552138c178c3--dynamic-piroshki-ce2e6d.netlify.app/ 
+
+#İstenen tüm özellikler gerçekleştirildi. Ekstra olarak istenilenler de yapılmıştır. Projem localhost'ta hatasız şekilde çalışmaktadır. Ancak netlify linkinde api kısmında sorun yaşadığım için filmler listelenmiyor. Bunun dışında istenen her şey fazlasıyla gerçekleştirilmiştir.
+
+
 
 # Getting Started with Create React App
 
