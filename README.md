@@ -32,11 +32,10 @@ npm run start
 
 ### İstenen tüm özellikler gerçekleştirildi. Ekstra olarak istenilenler de yapılmıştır. Projem localhost'ta hatasız şekilde çalışmaktadır. Ancak netlify linkinde bir sorun yaşadığım için filmler listelenmiyor. Bunun dışında istenen her şey fazlasıyla gerçekleştirilmiştir.
 
-![Screenshot_1](https://github.com/selinsahinn/MovieApp/assets/93709277/8adc8a45-4f66-4f42-8839-c7331f73afec)
+![Screenshot_1](https://github.com/selinsahinn/MovieApp/assets/93709277/893741e6-7a75-4455-b226-7f644c9dbb88)
+![Screenshot_2](https://github.com/selinsahinn/MovieApp/assets/93709277/45be0f4f-ffff-4969-a7be-d88575e0e34b)
+![Screenshot_3](https://github.com/selinsahinn/MovieApp/assets/93709277/5ed930f3-1e0e-4929-9bc6-732146419a75)
 
-![Screenshot_2](https://github.com/selinsahinn/MovieApp/assets/93709277/ac2276ce-644d-4c58-83a0-33057c739908)
-
-![Screenshot_3](https://github.com/selinsahinn/MovieApp/assets/93709277/9c957e30-3465-4fda-941b-c2a8adc47ca8)
 
 # Getting Started with Create React App
 
