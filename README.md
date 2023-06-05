@@ -34,6 +34,7 @@ npm run start
 
 ![Screenshot_2](https://github.com/selinsahinn/MovieApp/assets/93709277/ac2276ce-644d-4c58-83a0-33057c739908)
 
+![Screenshot_3](https://github.com/selinsahinn/MovieApp/assets/93709277/9c957e30-3465-4fda-941b-c2a8adc47ca8)
 
 
 
